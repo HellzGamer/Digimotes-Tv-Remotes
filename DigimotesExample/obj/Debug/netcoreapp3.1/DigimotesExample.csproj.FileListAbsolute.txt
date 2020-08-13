@@ -1,0 +1,13 @@
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\bin\Debug\netcoreapp3.1\DigimotesExample.exe
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\bin\Debug\netcoreapp3.1\DigimotesExample.deps.json
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\bin\Debug\netcoreapp3.1\DigimotesExample.runtimeconfig.json
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\bin\Debug\netcoreapp3.1\DigimotesExample.runtimeconfig.dev.json
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\bin\Debug\netcoreapp3.1\DigimotesExample.dll
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\bin\Debug\netcoreapp3.1\DigimotesExample.pdb
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\obj\Debug\netcoreapp3.1\DigimotesExample.csprojAssemblyReference.cache
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\obj\Debug\netcoreapp3.1\DigimotesExample.AssemblyInfoInputs.cache
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\obj\Debug\netcoreapp3.1\DigimotesExample.AssemblyInfo.cs
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\obj\Debug\netcoreapp3.1\DigimotesExample.csproj.CoreCompileInputs.cache
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\obj\Debug\netcoreapp3.1\DigimotesExample.dll
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\obj\Debug\netcoreapp3.1\DigimotesExample.pdb
+C:\Users\Devesh\source\repos\DigimotesExample\DigimotesExample\obj\Debug\netcoreapp3.1\DigimotesExample.genruntimeconfig.cache
