@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "TVRemoteLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TVRemoteLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TVRemoteLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TVRemoteLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TVRemoteLibrary/TVRemoteLibrary.csproj",
+      "msbuildProject": "../TVRemoteLibrary/TVRemoteLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "TVRemoteLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Devesh\\.nuget\\packages\\": {},
@@ -36,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Devesh\\source\\repos\\DigimotesExample\\TVRemoteLibrary\\TVRemoteLibrary.csproj": {
+              "projectPath": "C:\\Users\\Devesh\\source\\repos\\DigimotesExample\\TVRemoteLibrary\\TVRemoteLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

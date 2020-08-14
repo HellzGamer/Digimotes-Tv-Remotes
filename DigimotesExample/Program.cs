@@ -1,5 +1,5 @@
-﻿using DigimotesExample.Model;
-using System;
+﻿using System;
+using TVRemoteLibrary.Models;
 
 namespace DigimotesExample
 {

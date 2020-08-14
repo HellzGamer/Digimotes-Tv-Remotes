@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DigimotesExample.Model
+namespace TVRemoteLibrary.Models
 {
     public class GenericRemote
     {
@@ -82,4 +82,3 @@ namespace DigimotesExample.Model
         }
     }
 }
-

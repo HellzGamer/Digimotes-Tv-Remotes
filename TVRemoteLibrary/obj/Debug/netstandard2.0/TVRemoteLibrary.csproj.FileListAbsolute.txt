@@ -1,0 +1,8 @@
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\bin\Debug\netstandard2.0\TVRemoteLibrary.deps.json
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\bin\Debug\netstandard2.0\TVRemoteLibrary.dll
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\bin\Debug\netstandard2.0\TVRemoteLibrary.pdb
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\obj\Debug\netstandard2.0\TVRemoteLibrary.AssemblyInfoInputs.cache
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\obj\Debug\netstandard2.0\TVRemoteLibrary.AssemblyInfo.cs
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\obj\Debug\netstandard2.0\TVRemoteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\obj\Debug\netstandard2.0\TVRemoteLibrary.dll
+C:\Users\Devesh\source\repos\DigimotesExample\TVRemoteLibrary\obj\Debug\netstandard2.0\TVRemoteLibrary.pdb

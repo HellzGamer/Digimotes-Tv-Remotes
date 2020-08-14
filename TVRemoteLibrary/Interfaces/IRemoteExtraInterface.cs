@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DigimotesExample.Interface
+namespace TVRemoteLibrary.Interfaces
 {
     public interface IRemoteExtraInterface
     {

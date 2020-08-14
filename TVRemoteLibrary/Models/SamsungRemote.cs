@@ -1,16 +1,17 @@
-﻿using DigimotesExample.Interface;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Text;
+using TVRemoteLibrary.Interfaces;
 
-namespace DigimotesExample.Model
+namespace TVRemoteLibrary.Models
 {
-    public class LGRemote : GenericRemote, IRemoteExtraInterface
+    public class SamsungRemote : GenericRemote, IRemoteExtraInterface
     {
         public List<string> SourceOptions { get; set; }
         public string CurrentSource { get; set; }
         private int Source { get; set; }
 
-        public LGRemote(int minChannel, int maxChannel, int minVolume, int maxVolume) : base(minChannel, maxChannel, minVolume, maxVolume)
+        public SamsungRemote(int minChannel, int maxChannel, int minVolume, int maxVolume) : base(minChannel, maxChannel, minVolume, maxVolume)
         {
             SourceOptions = new List<string>() { "TV", "HDMI1", "HDMI2", "VGA" }; ;
         }
@@ -24,7 +25,7 @@ namespace DigimotesExample.Model
 
         public void Menu()
         {
-            Console.WriteLine("LG TV Menu");
+            Console.WriteLine("Samsung TV Menu");
         }
 
         public int Mute()

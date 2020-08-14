@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "DigimotesExample/1.0.0": {
+        "dependencies": {
+          "TVRemoteLibrary": "1.0.0"
+        },
         "runtime": {
           "DigimotesExample.dll": {}
+        }
+      },
+      "TVRemoteLibrary/1.0.0": {
+        "runtime": {
+          "TVRemoteLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DigimotesExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TVRemoteLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
