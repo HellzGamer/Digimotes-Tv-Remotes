@@ -23,10 +23,15 @@ namespace TVRemoteLibrary.Models
             base.PowerOn();
         }
 
-        public void Menu()
+        public override void PowerOff()
         {
             CurrentSource = "Off";
             base.PowerOff();
+        }
+
+        public string Menu()
+        {
+            return "LG TV Menu";
         }
 
         public int Mute()

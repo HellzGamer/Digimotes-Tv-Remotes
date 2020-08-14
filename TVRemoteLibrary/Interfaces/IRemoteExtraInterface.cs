@@ -8,7 +8,7 @@ namespace TVRemoteLibrary.Interfaces
     {
         List<string> SourceOptions { get; set; }
         string SourceToggle();
-        void Menu();
+        string Menu();
         int Mute();
     }
 }

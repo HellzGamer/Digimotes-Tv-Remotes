@@ -23,9 +23,9 @@ namespace TVRemoteLibrary.Models
             base.PowerOn();
         }
 
-        public void Menu()
+        public string Menu()
         {
-            Console.WriteLine("Samsung TV Menu");
+            return "Samsung TV Menu";
         }
 
         public int Mute()
