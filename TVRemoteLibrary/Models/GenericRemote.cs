@@ -34,7 +34,8 @@ namespace TVRemoteLibrary.Models
         }
         public virtual void PowerOff()
         {
-            Console.WriteLine("TV Off");
+            Volume = 0;
+            Channel = 0;
         }
 
         public virtual int VolumeUp()

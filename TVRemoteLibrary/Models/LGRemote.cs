@@ -25,7 +25,8 @@ namespace TVRemoteLibrary.Models
 
         public void Menu()
         {
-            Console.WriteLine("LG TV Menu");
+            CurrentSource = "Off";
+            base.PowerOff();
         }
 
         public int Mute()
